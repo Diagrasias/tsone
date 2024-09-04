@@ -3,7 +3,7 @@
 
 ## Скрины результатов
 Windows microsoft edge:
-![Винда](tsone/pojectImages/windowsAPP.png)
+![](pojectimages/windowsAPP.png)
 
 Redmi note 10S:
-![Мобила](tsone/pojectImages/androidAPP.jpg)
+![](pojectimages/androidAPP.jpg)
